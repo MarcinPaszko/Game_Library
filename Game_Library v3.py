@@ -6,8 +6,8 @@ import os
 
 # MongoDB setup
 mongo_client = MongoClient('localhost', 27017)
-mongo_db = mongo_client['PS3Games']  # Use the correct database name
-mongo_collection = mongo_db['Games']  # Use the correct collection name
+mongo_db = mongo_client['PS3Games'] 
+mongo_collection = mongo_db['Games'] 
 
 # MySQL setup
 mysql_password = os.getenv('MYSQL_PASSWORD')
@@ -25,10 +25,10 @@ redis_connection = redis.StrictRedis(host='localhost', port=6379, db=0)
 # Function to browse records
 def browse_records(platform):
     if platform in ['PS3', 'PS4', 'PS5']:
-        print(f"Selected platform: {platform}")  # Add this line for debugging
+        print(f"Selected platform: {platform}")  
         if platform == 'PS3':
             try:
-                # Exclude _id field from the output using projection
+               
                 for game in mongo_collection.find({}, {'_id': 0}):
                     print(game)
             except Exception as e:

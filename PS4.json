@@ -1,0 +1,46 @@
+[
+    {
+        "Platform": "PS4",
+        "Title": "Cyberpunk",
+        "Genre": "Action",
+        "Release Year ": "2021 "
+    },
+    {
+        "Platform": "PS4",
+        "Title": "The Last of Us",
+        "Genre": "TPS",
+        "Release Year ": "2020 "
+    },
+    {
+        "Platform": "PS4",
+        "Title": "Death Stranding",
+        "Genre": "Action",
+        "Release Year ": "2019 "
+    },
+    {
+        "Platform": "PS4",
+        "Title": "Elden Ring",
+        "Genre": "RPG",
+        "Release Year ": "2020 "
+    },
+    {
+        "Platform": "PS4",
+        "Title": "Bloodborne",
+        "Genre": "RPG",
+        "Release Year ": "2015 "
+    },
+    {
+        "Platform": null,
+        "Title": null,
+        "Genre": null,
+        "Release Year ": null
+    },
+    {
+        "Platform": "",
+        "Title": "",
+        "Genre": "",
+        "Release Year ": ""
+    },
+    {},
+    {}
+]

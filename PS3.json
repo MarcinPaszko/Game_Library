@@ -1,0 +1,56 @@
+[
+    {
+        "Platform": "PS3",
+        "Title": "Mafia II",
+        "Genre": "TPS",
+        "Release Year": "2010"
+    },
+    {
+        "Platform": "PS3",
+        "Title": "Syndicate",
+        "Genre": "FPS",
+        "Release Year": "2010"
+    },
+    {
+        "Platform": "PS3",
+        "Title": "Borderlands",
+        "Genre": "FPS",
+        "Release Year": "2008"
+    },
+    {
+        "Platform": "PS3",
+        "Title": "Borderlands 2",
+        "Genre": "FPS",
+        "Release Year": "2003"
+    },
+    {
+        "Platform": "PS3",
+        "Title": "Bionic Commando",
+        "Genre": "Action",
+        "Release Year": "2004"
+    },
+    {
+        "Platform": "PS3",
+        "Title": "Binary Domain",
+        "Genre": "Action",
+        "Release Year": "2005"
+    },
+    {
+        "Platform": "PS3",
+        "Title": "Darksiders",
+        "Genre": "Action",
+        "Release Year": "2011"
+    },
+    {
+        "Platform": "PS3",
+        "Title": "FEAR 2",
+        "Genre": "Horror",
+        "Release Year": "2005"
+    },
+    {
+        "Platform": "PS3",
+        "Title": "God of War",
+        "Genre": "Slasher",
+        "Release Year": "2006"
+    }
+]
